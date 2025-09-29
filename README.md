@@ -1,4 +1,4 @@
-# Retail Sales Analysis 📊
+# Retail Sales Analysis
 
 ## Overview
 This project analyzes Walmart’s sales data to identify:
